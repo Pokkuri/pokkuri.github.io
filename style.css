@@ -1,10 +1,14 @@
+*{
+    background: grey;
+}
+
 .navbar{
     position: absolute;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     padding: 20px;
-
+    background: rgb(121, 235, 219);
 }
 
 li{
